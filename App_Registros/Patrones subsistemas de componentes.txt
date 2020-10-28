@@ -1,0 +1,23 @@
+﻿Libro: J2EE Patterns, Best Practices and Design Strategies – Second Edition-2002
+Orientados a subsitemas de componentes
+
+- Capa de presentación: Estos patrones se encargan de la interfaz gráfica y de la interacción con el usuario.
+> Intercepting Filter
+> Front Controller
+> View Helper
+> Composite view
+> Service To Worker
+> Dispatcher View
+
+- Capa de negocio: Estos patrones se encargan de las reglas de negocio, validaciones de negocio y transferencia.
+> Business Delegate
+> Session Facade
+> Service Locator
+> Value Object Assembler
+> Value List Handler
+> Composity Entity
+> Data Transfer Object(DTO) **
+
+- Integración o acceso a datos: Estos patrones se encarga de explotar los datos de cualquier fuente, ya sea archivos o base de datos.
+> Service Activator
+> Data Access Object(DAO) **

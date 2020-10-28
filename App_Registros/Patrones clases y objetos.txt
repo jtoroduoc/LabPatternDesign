@@ -1,0 +1,32 @@
+﻿Libro: Design patterns, Elements of Reusable Object- Oriented Software
+Autores: Gang of Four (GOF)
+Orientados a Clases y Objetos
+
+- Creacionales: Se encarga de la incialización y configuración de objetos.
+> Abstract Factory
+> Builder
+> Factory Method
+> Prototype
+> Singleton **
+
+- Estructurales: Separan la interfaz de la implementación. Se ocupan de cómo las clases y objetos se agrupan para formar estructuras más grandes. 
+> Adapter (de objetos)
+> Bridge
+> Composite
+> Decorator
+> Façade
+> Flyweight
+> Proxy
+
+- Comportamiento: Se encarga de describir objetos o clases y la comunicación entre ellos.
+> Interpreter
+> Template Method
+> Chain of Responsibility
+> Command
+> Iterator
+> Mediator
+> Memento
+> Observer
+> State
+> Strategy
+> Visitor
